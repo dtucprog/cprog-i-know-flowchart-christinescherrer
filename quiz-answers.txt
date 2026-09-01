@@ -1,1 +1,3 @@
+Why do programmers typically use a repository for their software projects?
 
+3. Because a repository is a storage where files or projects and so on are stored and managed its a way to back up code in a cloud if it's a local repository
